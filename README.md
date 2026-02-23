@@ -4,7 +4,7 @@ I build **management applications** (dashboards, workflows, admin tools) that ar
 Je développe des **applications de gestion** (tableaux de bord, workflows, outils admin) **fiables**, simples à utiliser et scalables.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kokou%20Bernard%20Kpedzi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kokou-bernard-kpedzi-b47b2418a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Email](https://img.shields.io/badge/Email-benlk404%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benlk404@gmail.com)
+[![Email](https://img.shields.io/badge/Email-lkinglbengmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benlk404@gmail.com)
 
 ---
 
@@ -126,6 +126,6 @@ Je développe des **applications de gestion** (tableaux de bord, workflows, outi
 
 ## 📫 Contact
 **Want to work together? / Envie de collaborer ?**  
-- Email: **benlk404@gmail.com**
+- Email: **lkinglben@gmail.com**
 - LinkedIn: https://www.linkedin.com/in/kokou-bernard-kpedzi-b47b2418a
 - Portfolio *(placeholder)*: https://benlk404.dev
