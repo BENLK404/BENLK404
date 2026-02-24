@@ -76,7 +76,7 @@ Je développe des **applications de gestion** (tableaux de bord, workflows, outi
 
 ---
 
-## 🚀 Featured Projects | Projets en vedette *(mets les bons liens si besoin)*
+## 🚀 Featured Projects | Projets en vedette
 - **UrgenceVie** — Application mobile de gestion des dons de sang (donneurs ↔ hôpitaux) au Togo  
   Repo: https://github.com/BENLK404/urgencevie
 
