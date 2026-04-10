@@ -1,93 +1,119 @@
-# Hi, I'm **BENLK404** 👋 | Salut, moi c’est **BENLK404**
-**Software Engineer | Full‑Stack Developer (Web • Backend • Mobile)** — **Togo**  
-I build **management applications** (dashboards, workflows, admin tools) that are **reliable**, easy to use, and scalable.  
-Je développe des **applications de gestion** (tableaux de bord, workflows, outils admin) **fiables**, simples à utiliser et scalables.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Salut,%20moi%20c'est%20BENLK404%20👋&fontSize=60&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kokou%20Bernard%20Kpedzi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kokou-bernard-kpedzi-b47b2418a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Email](https://img.shields.io/badge/Email-lkinglbengmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benlk404@gmail.com)
+  <br/>
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Software+Engineer;Développeur+Full-Stack+(Web+%2F+Mobile);Créateur+d'applications+de+gestion;Basé+au+Togo+🇹🇬" alt="Typing SVG" /></a>
+  
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=BENLK404&label=Vues+du+Profil&color=blue&style=flat" alt="Vues du Profil" />
+</div>
 
 ---
 
 ## 🚀 Summary | Résumé
-**🇬🇧** Full‑Stack engineer focused on shipping real products: clean UI, robust APIs, scalable data.  
-**🇫🇷** Développeur Full‑Stack orienté produit : UI soignée, APIs robustes, données scalables.
 
-**Keywords / Mots‑clés :** Reliability • Clean Architecture • Scalability
+**🇬🇧** Full-Stack engineer from **Togo**, focused on shipping real products: clean UI, robust APIs, scalable data.  
+**🇫🇷** Développeur Full-Stack basé au **Togo**, orienté produit : UI soignée, APIs robustes, données scalables.
 
----
-
-## 💼 Freelance
-**Available for freelance projects** (remote or on‑site in Togo).  
-👉 If you need a **management app**, an **admin dashboard**, a **backend API**, or a **Flutter mobile app**, let’s talk.
+**Keywords / Mots-clés :** Reliability • Clean Architecture • Scalability
 
 ---
 
-## 🧩 What I build | Ce que je construis
-- **Admin dashboards / Back‑offices** (CRUD, filters, export)
+## 💼 Freelance & Vision
+
+**Available for freelance projects** (remote or on-site in Togo).  
+👉 If you need a **management app**, an **admin dashboard**, a **backend API**, or a **Flutter mobile app**, let’s talk!
+
+### 🧩 What I build | Ce que je construis
+- **Admin dashboards / Back-offices** (CRUD, filters, export)
 - **Authentication + RBAC** (roles/permissions)
 - **Workflows métiers** (validation, statuts, historique)
 - **Reports & analytics** (KPIs, activity logs)
-- **Integrations** (email/SMS, payments, third‑party APIs)
+- **Integrations** (email/SMS, payments, third-party APIs)
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Ma Stack Technique & Outils
 
-### 🌐 Frontend (Web)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-1B1F23?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-1B1F23?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Ant%20Design](https://img.shields.io/badge/Ant%20Design-1677FF?style=for-the-badge&logo=antdesign&logoColor=white)
+<div align="center">
+  <h3>🌐 Frontend (Web)</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,vue,nextjs,tailwindcss,html,css&theme=dark" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/Ant%20Design-1677FF?style=for-the-badge&logo=antdesign&logoColor=white" />
 
-### 🧠 Backend
-![Node.js](https://img.shields.io/badge/Node.js-1B1F23?style=for-the-badge&logo=node.js&logoColor=3C873A)
-![Express](https://img.shields.io/badge/Express-1B1F23?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-1B1F23?style=for-the-badge&logo=prisma&logoColor=2D3748)
-![Spring%20Boot](https://img.shields.io/badge/Spring%20Boot-1B1F23?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![Java](https://img.shields.io/badge/Java-1B1F23?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1B1F23?style=for-the-badge&logo=python&logoColor=3776AB)
+  <h3>🧠 Backend</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,spring,java,python&theme=dark" />
+  </a>
 
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-1B1F23?style=for-the-badge&logo=flutter&logoColor=02569B)
-![Dart](https://img.shields.io/badge/Dart-1B1F23?style=for-the-badge&logo=dart&logoColor=0175C2)
+  <h3>📱 Mobile</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
+  </a>
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-1B1F23?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Mongoose](https://img.shields.io/badge/Mongoose-1B1F23?style=for-the-badge&logo=mongoose&logoColor=880000)
-![SQL](https://img.shields.io/badge/SQL-1B1F23?style=for-the-badge&logo=databricks&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-1B1F23?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1B1F23?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+  <h3>🗄️ Databases</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-1B1F23?style=for-the-badge&logo=databricks&logoColor=white" />
 
-### ☁️ Cloud / Infra
-![Firebase](https://img.shields.io/badge/Firebase-1B1F23?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![AWS](https://img.shields.io/badge/AWS-1B1F23?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![VPS](https://img.shields.io/badge/VPS-1B1F23?style=for-the-badge&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1B1F23?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Nginx](https://img.shields.io/badge/Nginx-1B1F23?style=for-the-badge&logo=nginx&logoColor=009639)
+  <h3>☁️ Cloud, DevOps & Tools</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,aws,docker,nginx,git,github,linux,postman&theme=dark" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/VPS-1B1F23?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" />
+</div>
 
-### 🧪 Tools
-![Git](https://img.shields.io/badge/Git-1B1F23?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-1B1F23?style=for-the-badge&logo=github&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-1B1F23?style=for-the-badge&logo=swagger&logoColor=85EA2D)
-![Postman](https://img.shields.io/badge/Postman-1B1F23?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Linux](https://img.shields.io/badge/Linux-1B1F23?style=for-the-badge&logo=linux&logoColor=FCC624)
+---
+
+## 🏆 Trophées GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BENLK404&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="Trophées GitHub" />
+</div>
+
+---
+
+## 📊 Mes Statistiques GitHub
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=BENLK404&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Statistiques GitHub" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=BENLK404&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BENLK404&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Langages les plus utilisés" />
+</div>
 
 ---
 
 ## 🚀 Featured Projects | Projets en vedette
-- **UrgenceVie** — Application mobile de gestion des dons de sang (donneurs ↔ hôpitaux) au Togo  
-  Repo: https://github.com/BENLK404/urgencevie
 
-- **CivicEye** — Application permettant aux citoyens de signaler des problèmes civiques locaux  
-  Repo: https://github.com/BENLK404/civiceye
+### 🩸 [UrgenceVie](https://github.com/BENLK404/urgencevie)
+*Application mobile de gestion des dons de sang (donneurs ↔ hôpitaux) au Togo.*
 
-- **KoriTech** — Solution de gestion des ressources humaines (RH)  
-  Repo: https://github.com/BENLK404/koritech
+### 🏛️ [CivicEye](https://github.com/BENLK404/civiceye)
+*Application permettant aux citoyens de signaler des problèmes civiques locaux.*
 
-- **LKM Player (Musio)** — Lecteur audio mobile  
-  Repo: https://github.com/BENLK404/lkm-player
+### 👥 [KoriTech](https://github.com/BENLK404/koritech)
+*Solution complète de gestion des ressources humaines (RH).*
+
+### 🎵 [LKM Player (Musio)](https://github.com/BENLK404/lkm-player)
+*Lecteur audio mobile intuitif.*
 
 ---
 
@@ -100,32 +126,31 @@ Je développe des **applications de gestion** (tableaux de bord, workflows, outi
 
 ---
 
-## 📦 Typical modules (management apps) | Modules fréquents (apps de gestion)
-- Multi‑users, RBAC, audit logs
-- Imports/exports (CSV/Excel/PDF)
-- Search, filters, pagination
-- Notifications (email / push)
-- Activity history, status tracking
-- Payment integration (si besoin)
-- Admin settings & configuration
-
----
-
-## 🤝 Open to | Ouvert à
-- Missions freelance (MVP → v1 → évolutions)
-- Reprises/optimisations de projets existants (perf, UX, refacto)
-- Collaborations long terme
-
----
-
 ## 🌍 Languages | Langues
-- 🇫🇷 Français : courant  
-- 🇬🇧 Anglais : technique / professionnel  
+- **🇫🇷 Français** : Courant
+- **🇬🇧 Anglais** : Technique / Professionnel
 
 ---
 
-## 📫 Contact
-**Want to work together? / Envie de collaborer ?**  
-- Email: **lkinglben@gmail.com**
-- LinkedIn: https://www.linkedin.com/in/kokou-bernard-kpedzi-b47b2418a
-- Portfolio *(placeholder)*: https://benlk404.dev
+## 📫 Contact & Réseaux
+
+<div align="center">
+  <p><strong>Want to work together? / Envie de collaborer ?</strong></p>
+  
+  <a href="mailto:lkinglben@gmail.com">
+    <img src="https://img.shields.io/badge/Email-lkinglben@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/kokou-bernard-kpedzi-b47b2418a">
+    <img src="https://img.shields.io/badge/LinkedIn-Kokou_Bernard_Kpedzi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://benlk404.dev">
+    <img src="https://img.shields.io/badge/Portfolio-benlk404.dev-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="250" alt="Code GIF" />
+  <p><i>Merci de votre visite ! N'hésitez pas à laisser une étoile ⭐ sur mes dépôts.</i></p>
+</div>
